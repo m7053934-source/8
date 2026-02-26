@@ -1,0 +1,14 @@
+telebot
+requests_toolbelt
+user_agent
+requests
+Pyjwt
+psutil
+flask
+faker
+bs4
+cloudscraper
+tele
+colorama
+fake_useragent
+httpx
